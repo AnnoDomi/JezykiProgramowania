@@ -9,13 +9,13 @@
 * odczytywania wartości z konsoli i formatowania wyświetlanych wyników, 
 * podstawowych operacji z plikami.
 
-*Zadanie 1*. Napisz program, który wypełni danymi losowymi tablicę Tab, a następnie dokona:
+**Zadanie 1**. Napisz program, który wypełni danymi losowymi tablicę Tab, a następnie dokona:
 
  * zliczenia sumy wszystkich jej elementów
  * znajdzie element najmniejszy i największy
  * i wyświetli wyniki na konsoli.
 Dane: Tab - 100-elementowa tablica wartości numerycznych
-
+<hr>
 ##############################################################################################################################
 
 **Zadanie 2**. Napisz program, który obliczy i poda NWP (największy wspólny podzielnik) dwu liczb. Wykorzystaj klasę Scanner do pobrania od użytkownika danych wejściowych.
