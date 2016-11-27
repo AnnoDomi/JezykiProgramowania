@@ -1,12 +1,12 @@
-# JezykiProgramowania
-Informacje o zadaniach z zakresu programowania w języku Java
+# JęzykiProgramowania
+/*Informacje o zadaniach z zakresu programowania w języku Java
 
 Zadania z Java usprawniające i utrwalające wiedzę z zakresu:
 
 - typów zmiennych, zakresu i rzutowania,
 - stosowania pętli i wyrażeń warunkowych, 
 - operowania stringami, 
-- odczytywania wartości z konsoli i formatowania wyświetlanych wyników, 
+- odczytywania wartości z konsoli i formatowania wyświetlanych wyników,
 - podstawowych operacji z plikami.
 
 
@@ -18,21 +18,21 @@ Zadania z Java usprawniające i utrwalające wiedzę z zakresu:
 Dane:
    Tab - 100-elementowa tablica wartości numerycznych
 
-###############################################################################################################################################################
+###############################################################################################################################
 
 2. Napisz program, który obliczy i poda NWP (największy wspólny podzielnik) dwu liczb. Wykorzystaj klasę Scanner do pobrania od użytkownika danych wejściowych.
 
 Dane: L1, L2 - liczby dla których określamy NWP
 
-###############################################################################################################################################################
+###############################################################################################################################
 
 3. Napisz program, który wyszuka i wyświeli wszystkie liczby pierwsze w podanym zakresie wartości. Zaproponuj algorytm.
 
-###############################################################################################################################################################
+###############################################################################################################################
 
 4. Napisz program, który posortuje n-elementową tablicę stringów od elementu największego do najmniejszego (leksykograficznie). Nie korzystaj z klasy Arrays! 
 
-###############################################################################################################################################################
+###############################################################################################################################
 
 5. Napisz program, który stworzy matrycę (tablicę dwuwymiarową), wypełni ją losowymi danymi, wyświetli ją na ekranie w sposób uporządkowany. 
    Następnie w zależności od życzenia użytkownika (odpytanie użytkownika) obróci matrycę w lewo lub w prawo (o 90°) i wyswietli wynik.
@@ -66,3 +66,4 @@ Dane do obliczeń pobierz z klawiatury od użytkownika.
 
 
 Klasy, z którymi trzeba się zapoznać aby rozwiązać powyższe zadania: String, Scanner, Random.
+*/
