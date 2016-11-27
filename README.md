@@ -8,6 +8,7 @@
 * operowania stringami, 
 * odczytywania wartości z konsoli i formatowania wyświetlanych wyników, 
 * podstawowych operacji z plikami.
+<hr \>
 
 **Zadanie 1**. Napisz program, który wypełni danymi losowymi tablicę Tab, a następnie dokona:
 
@@ -27,14 +28,17 @@ Dane: Tab - 100-elementowa tablica wartości numerycznych
 ###############################################################################################################################
 
 **Zadanie 3**. Napisz program, który wyszuka i wyświeli wszystkie liczby pierwsze w podanym zakresie wartości. Zaproponuj algorytm.  
+<hr \>
 
 ###############################################################################################################################
 
 **Zadanie 4**. Napisz program, który posortuje n-elementową tablicę stringów od elementu największego do najmniejszego (leksykograficznie). Nie korzystaj z klasy Arrays! 
+<hr \>
 
 ###############################################################################################################################
 
 **Zadanie 5**. Napisz program, który stworzy matrycę (tablicę dwuwymiarową), wypełni ją losowymi danymi, wyświetli ją na ekranie w sposób  uporządkowany. Następnie w zależności od życzenia użytkownika (odpytanie użytkownika) obróci matrycę w lewo lub w prawo (o 90°) i wyswietli wynik.
+<hr \>
 
 ###############################################################################################################################
 
@@ -43,24 +47,27 @@ Dane: Tab - 100-elementowa tablica wartości numerycznych
  * ilość wprowadzonych znaków (nie licząc spacji, interpunkcyjnych oraz znaków końca linii); 
  * ilość wyrazów użytych w tekście;
  * stosunek ilości liter dużych do małych.
+<hr \>
 
 ###############################################################################################################################
 
 **Zadanie 7**. Napisz program, który będzie kalkulatorem wykonującym podstawowe obliczenia arytmetyczne: +, -, *, /. Dane do kalkulatora powinny być wprowadzane w jednym zdaniu tekstowym, a zdanie rozłożone do niezbędnych składowych.
    Spróbuj użyć przypisania do wielu zmiennych w jednej operacji Scannera. 
+<hr \>
 
 ###############################################################################################################################
 
 **Zadanie 8**. Napisz program, który będzie odejmował dwie, pobrane Scanner'em, liczby typu \<int> od siebie. Nie używaj operacji arytmetycznej "-".
+<hr \>
 
 ###############################################################################################################################
 
 **Zadanie 9**. Napisz program, który będzie elektroniczną kostką do gry wyświetlającą wynik w postaci sformatowanego tekstowo obrazu klasycznej kostki do gry.
+<hr \>
 
 ###############################################################################################################################
 
 **Zadanie 10**. Napisz program, który będzie obliczał pola, powierzchnię, objętość i parametry geometryczne różnych figur i brył geometrycznych. Wybór obiektu do obliczeń z menu. Dane do obliczeń pobierz z klawiatury od użytkownika.
-
-
+<hr \>
 
 ##   Klasy, z którymi trzeba się zapoznać aby rozwiązać powyższe zadania: **String, Scanner, Random**.
