@@ -10,6 +10,7 @@
 * podstawowych operacji z plikami.
 
 <1>. Napisz program, który wypełni danymi losowymi tablicę Tab, a następnie dokona:
+
     *   zliczenia sumy wszystkich jej elementów
     *   znajdzie element najmniejszy i największy
     *   i wyświetli wyniki na konsoli.
@@ -35,6 +36,7 @@
 ###############################################################################################################################
 
 <6>. Napisz program, który zapisywać będzie do pliku "tekst.txt" wszystkie zdania (zakończone enterem) wprowadzane przez użytkownika, aż do wprowadzenia zdania pustego. Następnie wyświetli wszystkie wprowdzone znania oraz statystyki: 
+
     * ilość wprowadzonych znaków (nie licząc spacji, interpunkcyjnych oraz znaków końca linii); 
     * ilość wyrazów użytych w tekście.
     * stosunek ilości liter dużych do małych.
