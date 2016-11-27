@@ -15,11 +15,14 @@
  * znajdzie element najmniejszy i największy
  * i wyświetli wyniki na konsoli.
 Dane: Tab - 100-elementowa tablica wartości numerycznych
-<hr>
+
+<hr \>
+
 ##############################################################################################################################
 
 **Zadanie 2**. Napisz program, który obliczy i poda NWP (największy wspólny podzielnik) dwu liczb. Wykorzystaj klasę Scanner do pobrania od użytkownika danych wejściowych.
     Dane: L1, L2 - liczby dla których określamy NWP
+<hr \>
 
 ###############################################################################################################################
 
