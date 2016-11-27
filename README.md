@@ -10,10 +10,11 @@
 * podstawowych operacji z plikami.
 
 Zadanie 1. Napisz program, który wypełni danymi losowymi tablicę Tab, a następnie dokona:
-    * zliczenia sumy wszystkich jej elementów
-    * znajdzie element najmniejszy i największy
-    * i wyświetli wyniki na konsoli.
-    Dane: Tab - 100-elementowa tablica wartości numerycznych
+
+ * zliczenia sumy wszystkich jej elementów
+ * znajdzie element najmniejszy i największy
+ * i wyświetli wyniki na konsoli.
+Dane: Tab - 100-elementowa tablica wartości numerycznych
 
 ##############################################################################################################################
 
@@ -35,9 +36,10 @@ Zadanie 5. Napisz program, który stworzy matrycę (tablicę dwuwymiarową), wyp
 ###############################################################################################################################
 
 Zaanie 6. Napisz program, który zapisywać będzie do pliku "tekst.txt" wszystkie zdania (zakończone enterem) wprowadzane przez użytkownika, aż do wprowadzenia zdania pustego. Następnie wyświetli wszystkie wprowdzone znania oraz statystyki:
-    * ilość wprowadzonych znaków (nie licząc spacji, interpunkcyjnych oraz znaków końca linii); 
-    * ilość wyrazów użytych w tekście;
-    * stosunek ilości liter dużych do małych.
+
+ * ilość wprowadzonych znaków (nie licząc spacji, interpunkcyjnych oraz znaków końca linii); 
+ * ilość wyrazów użytych w tekście;
+ * stosunek ilości liter dużych do małych.
 
 ###############################################################################################################################
 
